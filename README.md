@@ -1,8 +1,4 @@
 # WalkingCSharp
 
- ## Insctucciones de instalacion
+## UNIDAD 1 - EJERCICIO 2
 
-  - Clonar el repositorio: ```https://github.com/miguelbemon/WalkingCSharp```
-  - Comprobar funcionamiendo ```dotnet run``` 
-
-Microsoft Learn: Proyectos Guiados 
